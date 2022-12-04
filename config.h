@@ -10,6 +10,6 @@ const Block blocks[] = {
 	BLOCK("sb-volume",	0, 4),
 	BLOCK("sb-cpu",	5, 3),
 	BLOCK("sb-date",	1, 2),
-	BLOCK("sb-numlock", 0, 1),
+	/* BLOCK("sb-numlock", 0, 1), */
 };
 
