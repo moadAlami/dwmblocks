@@ -3,6 +3,7 @@
 #define CLICKABLE_BLOCKS
 
 const Block blocks[] = {
+	BLOCK("sb-mpd", 0, 9),
 	BLOCK("sb-bluetooth",	1, 8),
 	BLOCK("sb-bandwidth",	1, 7),
 	BLOCK("sb-torrent",	1, 6),
