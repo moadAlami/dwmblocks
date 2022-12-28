@@ -10,7 +10,7 @@ const Block blocks[] = {
 	BLOCK("sb-memory",	5, 5),
 	BLOCK("sb-volume",	0, 4),
 	BLOCK("sb-cpu",	5, 3),
-	BLOCK("sb-battery", 5, 10),
+	BLOCK("sb-battery", 1, 10),
 	BLOCK("sb-date",	60, 2),
 	BLOCK("sb-kblayout", 0, 11)
 	/* BLOCK("sb-numlock", 0, 1), */
