@@ -12,6 +12,7 @@ const Block blocks[] = {
 	BLOCK("sb-cpu",	5, 3),
 	BLOCK("sb-battery", 5, 10),
 	BLOCK("sb-date",	60, 2),
+	BLOCK("sb-kblayout", 0, 11)
 	/* BLOCK("sb-numlock", 0, 1), */
 };
 
