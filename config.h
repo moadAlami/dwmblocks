@@ -7,7 +7,7 @@ const Block blocks[] = {
 	BLOCK("sb-bluetooth",	1, 8),
 	BLOCK("sb-bandwidth",	1, 7),
 	BLOCK("sb-torrent",	1, 6),
-	BLOCK("sb-email", 120, 12),
+	/* BLOCK("sb-email", 120, 12), */
 	BLOCK("sb-memory",	5, 5),
 	BLOCK("sb-volume",	0, 4),
 	BLOCK("sb-cpu",	5, 3),
